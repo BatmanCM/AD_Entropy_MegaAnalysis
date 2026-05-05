@@ -1,6 +1,5 @@
 # -------------------------------------------------------------------------
 # Framework: Transcriptional Network Entropy as an Order Parameter (TNE-OP)
-# Author: Juan M. Córdoba (Universidad del Valle)
 # Version: 1.0.0 (V8 Manuscript Edition)
 # Description: Novel computational approach for AD as a phase transition.
 # License: MIT + Citation Requirement
